@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/background.jpg</file>
+        <file>img/calendar.png</file>
+        <file>img/dictionary.png</file>
+        <file>img/down.png</file>
+        <file>img/left.png</file>
+        <file>img/right.png</file>
+        <file>img/top.png</file>
+        <file>img/newWord.png</file>
+        <file>img/oldWord.png</file>
+        <file>img/note.png</file>
+        <file>img/sentence.png</file>
+        <file>img/background2.jpg</file>
+        <file>img/allWords.txt</file>
+        <file>img/officialWords.txt</file>
+    </qresource>
+</RCC>
